@@ -1,4 +1,6 @@
-# build-bitgesell-arch
+# Build Bitgesell core on Arch Linux (and Derivative Distros)
+<img src="Icon.png" style="height: 109px;"/>
+
 Bash scripts to build Bitgesell Core(with GUI) on Arch Linux and derivative distros
 ## Step 1: Install necessary dependencies
 
